@@ -1,0 +1,12 @@
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\ComplianceApi.exe
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\appsettings.json
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\ComplianceApi.dll
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\ComplianceApi.deps.json
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\ComplianceApi.runtimeconfig.json
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\ComplianceApi.pdb
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\kanwa\OneDrive\Desktop\LearningAndPrepration\ReactFullstackPrep\backend\ComplianceApi\ComplianceApi\obj\Release\net8.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

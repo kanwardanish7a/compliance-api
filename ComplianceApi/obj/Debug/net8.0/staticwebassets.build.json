@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "JOImzPliy0WVFQ8VMEhTHo27FbeH5pm3LTs7s+1ImMM=",
+  "Source": "ComplianceApi",
+  "BasePath": "_content/ComplianceApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
