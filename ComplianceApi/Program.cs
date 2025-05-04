@@ -27,6 +27,9 @@ var trades = new List<FlaggedTrade>
 
 app.MapGet("/api/trades", () => trades);
 
+app.MapGet("/api/user", () => trades);
+
+
 app.MapPut("/api/trades/{id}/review", (int id) =>
 {
     var trade = trades.FirstOrDefault(t => t.Id == id);
